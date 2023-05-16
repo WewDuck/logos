@@ -1,0 +1,44 @@
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVO  VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVO  VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVWKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKVVVVO  XVVVVKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKWVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX   ........................   .VVVVO  XVVVV                                   OVVVV
+VVVVX   dddddddddddddddddddddddd   .VVVVO  XVVVV     ccccccccccccccccccc.          OVVVV
+VVVVX   ........................   .VVVVO  XVVVV     ooooooooooooooooooo.          OVVVV
+VVVVX   ...................        .VVVVO  XVVVV                                   OVVVV
+VVVVX   ddddddddddddddddddd.       .VVVVO  XVVVV     .........................     OVVVV
+VVVVX   ;;;;;;;;;;;;;;;;;;;        .VVVVO  XVVVV     ddddddddddddddddddddddddd'    OVVVV
+VVVVX                              .VVVVO  XVVVV     ,,,,,,,,,,,,,,,,,,,,,,,,,.    OVVVV
+VVVVX   llllllllllllllllllllll.    .VVVVO  XVVVV                                   OVVVV
+VVVVX   llllllllllllllllllllll.    .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONVVVV
+VVVVX                              .VVVVO  XVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVX                              .VVVVO  ldddddddddddddddddddddddddddddddddddddddddddd
+VVVVX                              .VVVVO                                               
+VVVVX                              .VVVVO  OXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+VVVVX                              .VVVVO  XVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVX                              .VVVVO  XVVVVcccccccccccccccccccccccccccccccccccXVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV   XWKKKKKKKKKKKKKKNM, :cccccc.    OVVVV
+VVVVX                              .VVVVO  XVVVV   XX  .......     dM, ........... OVVVV
+VVVVX                              .VVVVO  XVVVV   XX .;;;;;;;.    dM, ,;;;;;;;;;; OVVVV
+VVVVX                              .VVVVO  XVVVV   XX  ''''''''''. dM, .'''''''''  OVVVV
+VVVVX                              .VVVVO  XVVVV   XX  ''''''''''. dM, .'''''''''. OVVVV
+VVVVX                              .VVVVO  XVVVV   XX              dM, ,::::::::,  OVVVV
+VVVVX                              .VVVVO  XVVVV   XX              dM, ..........  OVVVV
+VVVVX                              .VVVVO  XVVVV   XX              dM, clllllllll. OVVVV
+VVVVX                              .VVVVO  XVVVV   OXKKKKKKKKKKKKKKKX'             OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX                              .VVVVO  XVVVV                                   OVVVV
+VVVVX..............................,VVVVO  XVVVV...................................0VVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVO  XVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVO  XVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
